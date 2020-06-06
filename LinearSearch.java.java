@@ -5,10 +5,7 @@
  */
 package linear.search;
 
-/**
- *
- * @author Thinkpad
- */
+
 public class LinearSearch {
 
 
